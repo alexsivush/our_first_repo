@@ -1,0 +1,5 @@
+//ваще хз что происходит
+
+package main
+
+func main(){}
