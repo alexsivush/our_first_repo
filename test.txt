@@ -2,4 +2,9 @@
 
 package main
 
+type str struct{
+name string
+soname string
+}
+
 func main(){}
