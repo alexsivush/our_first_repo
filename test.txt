@@ -2,6 +2,13 @@
 
 package main
 
+func(s *int)Newfunc(){}
+
+//daaaa
+
+func superde(){
+return}
+
 type str struct{
 name string
 soname string
